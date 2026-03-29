@@ -2,6 +2,6 @@ Coke:
 
 Use WASD or arrow keys to move
 
-Drink coke and transfer it to your mom via your umbilical cord to get upgrades
+Drink coke to become stronger
 
 Find the light
